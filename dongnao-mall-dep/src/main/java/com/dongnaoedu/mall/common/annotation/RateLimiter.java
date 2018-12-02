@@ -1,5 +1,7 @@
 package com.dongnaoedu.mall.common.annotation;
 
+import java.lang.annotation.*;
+
 /**
  * 限流注解
  * @author allen

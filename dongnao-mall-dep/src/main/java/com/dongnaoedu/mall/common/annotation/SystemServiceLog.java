@@ -1,5 +1,7 @@
 package com.dongnaoedu.mall.common.annotation;
 
+import java.lang.annotation.*;
+
 /**
  * 系统级别Service层自定义注解，拦截Service层
  * @author allen
